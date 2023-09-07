@@ -1,0 +1,8 @@
+POST /sqli HTTP/1.1
+Content-Type: application/json
+Content-Length: 17
+Host: localhost:4444
+
+{
+"id":"param"
+}
